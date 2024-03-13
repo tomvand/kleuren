@@ -40,6 +40,8 @@ Buildings
 Color systems
 =============
 
+**More precise green/color references required, maybe sRGB?**
+
 Woodland Scenics
 ----------------
 
@@ -49,7 +51,28 @@ Woodland Scenics
 | :--------------- | :-: | :--- | :---------------- | :---- |
 | Green Grass      |  >  | 6010 | Manual comparison |       |
 | Green Grass      |  >  | 6025 | Manual comparison |       |
+| Dark green       |  >  | 6025 | Manual comparison |       |
+| Medium green     |  >  | 6025 | Manual comparison |       |
 
+
+Faller
+----
+
+| Faller     | < > | RAL  | Source            | Notes           |
+| :--------- | :-: | :--- | :---------------- | :-------------- |
+| Dunkelgrün |  >  | 6028 | Manual comparison | Not great match |
+
+
+Noch
+----
+
+| Noch       | < > | RAL  | Source            | Notes      |
+| :--------- | :-: | :--- | :---------------- | :--------- |
+| Gneis      |  >  | 4009 | Manual comparison | Poor match |
+| Hellgrün   |  >  | 6025 | Manual comparison |            |
+| Mittelgrün |  >  | 6003 | Manual comparison |            |
+| Dunkelgrün |  >  | 6002 | Manual comparison |            |
+| Wiese      |  >  | 6013 | Manual comparison | Poor match |
 
 
 Humbrol
