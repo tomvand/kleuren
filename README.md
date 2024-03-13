@@ -45,8 +45,22 @@ Woodland Scenics
 
 **TODO: better reference pictures, no reflection**
 
-| Woodland Scenics | RAL             |
-| :--------------- | :-------------- |
-| Dark Green       | 6003 (not sure) |
+| Woodland Scenics | < > | RAL  | Source            | Notes |
+| :--------------- | :-: | :--- | :---------------- | :---- |
+| Green Grass      |  >  | 6010 | Manual comparison |       |
+| Green Grass      |  >  | 6025 | Manual comparison |       |
 
-![](Color-systems/Woodland-Scenics/IMG_20240301_141351_1615620876778987-ral.jpg)
+
+
+Humbrol
+-------
+
+*Note: my Humbrol color samples do not seem to match the paints too well...*
+
+| Humbrol | < > | RAL  | Source            | Notes                                   |
+| :------ | :-: | :--- | :---------------- | :-------------------------------------- |
+| 26      | < > | 7008 | Official table    | Verfied samples                         |
+| 98      | < > | 7013 | Official table    | Samples don't match that well           |
+| 173     | < > | 8019 | Official table    | Humbrol paint appears slightly brighter |
+| 160     |  <  | 8028 | Manual comparison | Compared with paint                     |
+| 33      |  <  | 9017 | Manual comparison | Compared with sample                    |
