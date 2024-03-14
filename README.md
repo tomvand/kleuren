@@ -18,6 +18,11 @@ Werkwijze: RAL-kleurenwaaiers zijn een goedkoop referentiemateriaal voor kleuren
 Natuurlijk is dit geen perfecte kleur-gekalibreerde methode, dus de resultaten moeten alleen als ruwe indicatie worden gebruikt.
 
 
+General notes
+=============
+
+The RAL color palette is still rather limited. Especially for nuances such as grass colors, sRGB may be more expressive, while still allowing the use of RAL swatches as calibration targets.
+
 
 Track
 =====
@@ -40,7 +45,8 @@ Buildings
 Color systems
 =============
 
-**More precise green/color references required, maybe sRGB?**
+![](Color-systems/IMG_20240314_101609-ral.jpg)
+*Image appears exceptionally brown, but I've tried twice already with the same result...*
 
 Woodland Scenics
 ----------------
