@@ -48,6 +48,8 @@ Color systems
 ![](Color-systems/IMG_20240314_101609-ral.jpg)
 *Image appears exceptionally brown, but I've tried twice already with the same result...*
 
+![](Color-systems/IMG_20240315_170003-srgb.jpg)
+
 Woodland Scenics
 ----------------
 
