@@ -48,8 +48,20 @@ Color systems
 Ballast
 -------
 
-<img src="swatches/ws-dark-brown.png" width="20%"> <img src="swatches/n-gneis.png" width="20%">
-<img src="swatches/ws-buff.png" width="20%"> <img src="swatches/ws-gray.png" width="20%"> <img src="swatches/h-grau.png" width="20%"> <img src="swatches/n-sand.png" width="20%"> <img src="swatches/ws-cinders.png" width="20%">
+<img src="swatches/ws-cinders.png" width="20%"> <img src="swatches/ws-dark-brown.png" width="20%"> <img src="swatches/n-gneis.png" width="20%">
+<img src="swatches/ws-buff.png" width="20%"> <img src="swatches/ws-gray.png" width="20%"> <img src="swatches/h-grau.png" width="20%"> <img src="swatches/n-sand.png" width="20%">
+
+
+Static grass
+------------
+
+<img src="swatches/n-dunkelgruen.png" width="20%"> <img src="swatches/ws-medium-green.png" width="20%"> <img src="swatches/n-hellgruen.png" width="20%"> <img src="swatches/n-fruehlungswiese.png" width="20%"> <img src="swatches/n-braun.png" width="20%"> <img src="swatches/ws-dark-green.png" width="20%"> <img src="swatches/n-wiese.png" width="20%"> <img src="swatches/n-goldgelb.png" width="20%">
+
+
+Other foliage
+-------------
+
+<img src="swatches/ws-greengrass.png" width="20%"> <img src="swatches/ws-mediumgreen-turf.png" width="20%">
 
 
 Reference images
