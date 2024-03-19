@@ -45,53 +45,16 @@ Buildings
 Color systems
 =============
 
+Ballast
+-------
+
+![](swatches/ws-dark-brown.png) ![](swatches/n-gneis.png) ![](swatches/ws-buff.png) ![](swatches/ws-gray.png) ![](swatches/h-grau.png) ![](swatches/n-sand.png) ![](swatches/ws-cinders.png)
+
+
+Reference images
+----------------
+
 ![](Color-systems/IMG_20240314_101609-ral.jpg)
 *Image appears exceptionally brown, but I've tried twice already with the same result...*
 
 ![](Color-systems/IMG_20240315_170003-srgb.jpg)
-
-Woodland Scenics
-----------------
-
-**TODO: better reference pictures, no reflection**
-
-| Woodland Scenics | < > | RAL  | Source            | Notes |
-| :--------------- | :-: | :--- | :---------------- | :---- |
-| Green Grass      |  >  | 6010 | Manual comparison |       |
-| Green Grass      |  >  | 6025 | Manual comparison |       |
-| Dark green       |  >  | 6025 | Manual comparison |       |
-| Medium green     |  >  | 6025 | Manual comparison |       |
-
-
-Faller
-----
-
-| Faller     | < > | RAL  | Source            | Notes           |
-| :--------- | :-: | :--- | :---------------- | :-------------- |
-| Dunkelgrün |  >  | 6028 | Manual comparison | Not great match |
-
-
-Noch
-----
-
-| Noch       | < > | RAL  | Source            | Notes      |
-| :--------- | :-: | :--- | :---------------- | :--------- |
-| Gneis      |  >  | 4009 | Manual comparison | Poor match |
-| Hellgrün   |  >  | 6025 | Manual comparison |            |
-| Mittelgrün |  >  | 6003 | Manual comparison |            |
-| Dunkelgrün |  >  | 6002 | Manual comparison |            |
-| Wiese      |  >  | 6013 | Manual comparison | Poor match |
-
-
-Humbrol
--------
-
-*Note: my Humbrol color samples do not seem to match the paints too well...*
-
-| Humbrol | < > | RAL  | Source            | Notes                                   |
-| :------ | :-: | :--- | :---------------- | :-------------------------------------- |
-| 26      | < > | 7008 | Official table    | Verfied samples                         |
-| 98      | < > | 7013 | Official table    | Samples don't match that well           |
-| 173     | < > | 8019 | Official table    | Humbrol paint appears slightly brighter |
-| 160     |  <  | 8028 | Manual comparison | Compared with paint                     |
-| 33      |  <  | 9017 | Manual comparison | Compared with sample                    |
