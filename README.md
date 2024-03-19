@@ -48,7 +48,8 @@ Color systems
 Ballast
 -------
 
-![](swatches/ws-dark-brown.png) ![](swatches/n-gneis.png) ![](swatches/ws-buff.png) ![](swatches/ws-gray.png) ![](swatches/h-grau.png) ![](swatches/n-sand.png) ![](swatches/ws-cinders.png)
+<img src="swatches/ws-dark-brown.png" width="20%"> <img src="swatches/n-gneis.png" width="20%">
+<img src="swatches/ws-buff.png" width="20%"> <img src="swatches/ws-gray.png" width="20%"> <img src="swatches/h-grau.png" width="20%"> <img src="swatches/n-sand.png" width="20%"> <img src="swatches/ws-cinders.png" width="20%">
 
 
 Reference images
