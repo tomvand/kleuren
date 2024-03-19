@@ -46,15 +46,17 @@ Trains
 
 **NS Geel (oud)**
 
-<img src="trains/ns-geel.png" width="20%"> <img src="trains/ns-geel2.png" width="20%">
+<img src="trains/ns-geel2.png" width="20%"> <img src="trains/ns-geel3.png" width="20%"> <img src="trains/ns-geel4.png" width="20%"> <img src="trains/ns-geel.png" width="20%"> <img src="trains/ns-geel5.png" width="20%"> <img src="trains/ns-geel6.png" width="20%"> <img src="trains/ns-geel7.png" width="20%"> <img src="trains/ns-geel8.png" width="20%">
 
 **NS Cyaan**
 
-<img src="trains/ns-cyaan.png" width="20%">
+<img src="trains/ns-cyaan.png" width="20%"> <img src="trains/ns-cyaan2.png" width="20%">
 
 **NS Grijs**
 
-<img src="trains/ns-grijs-raamstijl.png" width="20%">
+<img src="trains/ns-grijs.png" width="20%">
+
+<img src="trains/ns-grijs-raamstijl.png" width="20%"> <img src="trains/ns-grijs-raamstijl2.png" width="20%">
 
 
 Reference pictures
@@ -62,6 +64,13 @@ Reference pictures
 
 
 ![](trains/IMG_20240315_112410_Mat64-srgb.jpg)
+Mat'64
+
+![](trains/IMG_20240315_131906_DDM-srgb.jpg)
+DDM
+
+![](trains/IMG_20240315_135114_DDM-srgb.jpg)
+DDM
 
 
 
