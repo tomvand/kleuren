@@ -41,6 +41,29 @@ Buildings
 ![](Bebouwing/IMG_20240217_120449-ral.jpg)
 
 
+Trains
+======
+
+**NS Geel (oud)**
+
+<img src="trains/ns-geel.png" width="20%"> <img src="trains/ns-geel2.png" width="20%">
+
+**NS Cyaan**
+
+<img src="trains/ns-cyaan.png" width="20%">
+
+**NS Grijs**
+
+<img src="trains/ns-grijs-raamstijl.png" width="20%">
+
+
+Reference pictures
+------------------
+
+
+![](trains/IMG_20240315_112410_Mat64-srgb.jpg)
+
+
 
 Color systems
 =============
