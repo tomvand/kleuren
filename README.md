@@ -77,6 +77,17 @@ DDM
 Color systems
 =============
 
+Humbrol
+-------
+
+<img src="swatches/humbrol-1.png" width="20%">
+
+<img src="swatches/humbrol-67.png" width="20%"> <img src="swatches/humbrol-32.png" width="20%"> <img src="swatches/humbrol-64.png" width="20%">
+
+<img src="swatches/humbrol-70.png" width="20%">
+
+<img src="swatches/humbrol-46.png" width="20%">
+
 Ballast
 -------
 
@@ -107,3 +118,6 @@ Reference images
 Catalog image adjusted to match above results (WS Dark Green, WS Medium Green).
 
 ![](Color-systems/IMG_20240315_170003-srgb.jpg)
+
+![](Color-systems/humbrol-1-73.jpg)
+Note the difference between the paint spots and color swatches! *Also, lighting appears slightly uneven (darker towards bottom)?*
