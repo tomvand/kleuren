@@ -87,7 +87,9 @@ Ballast
 Static grass
 ------------
 
-<img src="swatches/n-dunkelgruen.png" width="20%"> <img src="swatches/ws-medium-green.png" width="20%"> <img src="swatches/n-hellgruen.png" width="20%"> <img src="swatches/n-fruehlungswiese.png" width="20%"> <img src="swatches/n-braun.png" width="20%"> <img src="swatches/ws-dark-green.png" width="20%"> <img src="swatches/n-wiese.png" width="20%"> <img src="swatches/n-goldgelb.png" width="20%">
+<img src="swatches/ws-dark-green.png" width="20%"> <img src="swatches/ws-medium-green.png" width="20%"> <img src="swatches/ws-light-green.png" width="20%"> <img src="swatches/ws-straw.png" width="20%">
+
+<img src="swatches/n-dunkelgruen.png" width="20%"> <img src="swatches/n-hellgruen.png" width="20%"> <img src="swatches/n-olivgruen.png" width="20%"> <img src="swatches/n-fruehlungswiese.png" width="20%"> <img src="swatches/n-wiese.png" width="20%"> <img src="swatches/n-goldgelb.png" width="20%"> <img src="swatches/n-braun.png" width="20%">
 
 
 Other foliage
@@ -99,7 +101,9 @@ Other foliage
 Reference images
 ----------------
 
-![](Color-systems/IMG_20240314_101609-ral.jpg)
-*Image appears exceptionally brown, but I've tried twice already with the same result...*
+![](Color-systems/IMG_20240320_091203-srgb.jpg)
+
+![](Color-systems/woodland-scenics-static-grass-srgb.png)
+Catalog image adjusted to match above results (WS Dark Green, WS Medium Green).
 
 ![](Color-systems/IMG_20240315_170003-srgb.jpg)
