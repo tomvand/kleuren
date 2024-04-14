@@ -26,7 +26,7 @@ The RAL color palette is still rather limited. Especially for nuances such as gr
 
 Track
 =====
-![](Spoor/IMG_20240217_120311-ral.jpg)
+![](Spoor/IMG_20240217_120311-swatches.jpg)
 
 
 
@@ -102,6 +102,10 @@ Static grass
 
 <img src="swatches/n-dunkelgruen.png" width="20%"> <img src="swatches/n-hellgruen.png" width="20%"> <img src="swatches/n-olivgruen.png" width="20%"> <img src="swatches/n-fruehlungswiese.png" width="20%"> <img src="swatches/n-wiese.png" width="20%"> <img src="swatches/n-goldgelb.png" width="20%"> <img src="swatches/n-braun.png" width="20%">
 
+<img src="swatches/rts-sommer-70201.png" width="20%"> <img src="swatches/rts-sommer-70202.png" width="20%"> <img src="swatches/rts-fruehsommer-90101.png" width="20%"> <img src="swatches/rts-fruehsommer-90102.png" width="20%"> <img src="swatches/rts-bergwiese-90802.png" width="20%">  <img src="swatches/rts-sommer-trocken-90202.png" width="20%"> <img src="swatches/rts-heu-90702.png" width="20%"> <img src="swatches/rts-stroh-70702.png" width="20%"> <img src="swatches/rts-oliv-70802.png" width="20%">
+
+(RTS: Oliv may be inaccurate)
+
 
 Other foliage
 -------------
@@ -116,6 +120,9 @@ Reference images
 
 ![](Color-systems/woodland-scenics-static-grass-srgb.png)
 Catalog image adjusted to match above results (WS Dark Green, WS Medium Green).
+
+![](Color-systems/rts-grass-srgb.jpg)
+Notes: Most samples were cross-contaminated with the yellow grass. Coverage was not 100%, so some color of the underlying material may shine through. Colors are not super consistent between samples of different lengths, *also in real samples, so not a camera issue*!
 
 ![](Color-systems/IMG_20240315_170003-srgb.jpg)
 
