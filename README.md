@@ -26,6 +26,10 @@ The RAL color palette is still rather limited. Especially for nuances such as gr
 
 Track
 =====
+![](Spoor/IMG_20240217_120311-ral.jpg)
+
+![](Spoor/IMG_20240217_120311-vallejo.jpg)
+
 ![](Spoor/IMG_20240217_120311-swatches.jpg)
 
 
