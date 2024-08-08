@@ -132,3 +132,8 @@ Notes: Most samples were cross-contaminated with the yellow grass. Coverage was 
 
 ![](Color-systems/humbrol-1-73.jpg)
 Note the difference between the paint spots and color swatches! *Also, lighting appears slightly uneven (darker towards bottom)?*
+
+![](Color-systems/IMG_20240808_144436-color-match.jpg)
+
+![](Color-systems/vallejo-model-air-photomatched.jpg)
+Vallejo color chart from pdf. Adjusted to match photographed colors. The adjustment was quite small, so the original pdf may already have been accurate. Note that the RAL chart in the photograph is also not perfectly matched, especially the colors.
