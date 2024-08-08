@@ -92,6 +92,20 @@ Humbrol
 
 <img src="swatches/humbrol-46.png" width="20%">
 
+Vallejo Model Air
+-----------------
+
+<img src="swatches/vma-71001.png" width="20%">        <img src="swatches/vma-71052.png" width="20%">    <img src="swatches/vma-71131.png" width="20%"> <img src="swatches/vma-71142.png" width="20%"> 
+
+<img src="swatches/vma-71036.png" width="20%"> <img src="swatches/vma-71042.png" width="20%">
+
+<img src="swatches/vma-71039.png" width="20%"> <img src="swatches/vma-71249.png" width="20%"> <img src="swatches/vma-71038.png" width="20%">
+
+<img src="swatches/vma-71033.png" width="20%"> <img src="swatches/vma-71078.png" width="20%"> <img src="swatches/vma-71002.png" width="20%">
+
+<img src="swatches/vma-71004.png" width="20%"> <img src="swatches/vma-71090.png" width="20%"> <img src="swatches/vma-71089.png" width="20%">
+
+
 Ballast
 -------
 
