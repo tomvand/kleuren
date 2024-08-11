@@ -26,11 +26,16 @@ The RAL color palette is still rather limited. Especially for nuances such as gr
 
 Track
 =====
-![](Spoor/IMG_20240217_120311-ral.jpg)
+![](Spoor/spoor.jpg)
 
-![](Spoor/IMG_20240217_120311-vallejo.jpg)
+<img src="swatches/spoor-oud-ballast-roest.png" width="10%">
+<img src="swatches/spoor-oud-ballast-neutral.png" width="10%">
 
-![](Spoor/IMG_20240217_120311-swatches.jpg)
+<img src="swatches/spoor-oud-biels-roest.png" width="10%">
+<img src="swatches/spoor-oud-biels-neutraal.png" width="10%">
+<img src="swatches/spoor-oud-biels-bleek.png" width="10%">
+
+<img src="swatches/spoor-oud-rails-roest.png" width="10%">
 
 
 
