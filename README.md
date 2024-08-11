@@ -73,6 +73,14 @@ Track
 <img src="swatches/vma-71249.png" width="10%">
 <img src="swatches/vma-71038.png" width="10%">
 
+![](Spoor/spoor-20240811-check.jpg)
+- Track: peco code 55
+- Ballast: 2x WS Dark Brown, 1x WS Gray, 1x WS Buff
+- Weathering
+  - Neutraal: 71.038
+  - Roest (rond spoorstaven): 71.249
+  - Bleek (midden): 71.131
+
 
 
 Greenery
