@@ -30,27 +30,45 @@ Track
 
 <img src="swatches/spoor-oud-biels-bleek.png" width="10%">
 <img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-71131.png" width="10%">
+<img src="swatches/vma-71038.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
 <img src="swatches/vma-71116.png" width="10%">
 <img src="swatches/vma-71131.png" width="10%">
 
 <img src="swatches/spoor-oud-biels-neutraal.png" width="10%">
 <img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-71038.png" width="10%">
+<img src="swatches/vma-71249.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
 <img src="swatches/vma-71136.png" width="10%">
 
 <img src="swatches/spoor-oud-ballast-neutral.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-71038.png" width="10%">
+<img src="swatches/vma-71249.png" width="10%">
 <img src="swatches/spacer.png" width="10%">
 <img src="swatches/vma-71136.png" width="10%">
 <img src="swatches/vma-71116.png" width="10%">
 
 <img src="swatches/spoor-oud-ballast-roest.png" width="10%">
 <img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-71249.png" width="10%">
+<img src="swatches/vma-71038.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
 <img src="swatches/vma-71069.png" width="10%">
 
 <img src="swatches/spoor-oud-rails-roest.png" width="10%">
 <img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-71249.png" width="10%">
+<img src="swatches/vma-71038.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
 <img src="swatches/vma-71080.png" width="10%">
 
 <img src="swatches/spoor-oud-biels-roest.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-71249.png" width="10%">
+<img src="swatches/vma-71039.png" width="10%">
 <img src="swatches/spacer.png" width="10%">
 <img src="swatches/vma-71249.png" width="10%">
 <img src="swatches/vma-71038.png" width="10%">
@@ -118,7 +136,7 @@ Humbrol
 Vallejo Model Air
 -----------------
 
-<img src="swatches/vma-71001.png" width="10%">        <img src="swatches/vma-71052.png" width="10%">    <img src="swatches/vma-71131.png" width="10%"> <img src="swatches/vma-71142.png" width="10%"> 
+<img src="swatches/vma-71001.png" width="10%">        <img src="swatches/vma-71052.png" width="10%">    <img src="swatches/vma-71131.png" width="10%">
 
 <img src="swatches/vma-71036.png" width="10%"> <img src="swatches/vma-71042.png" width="10%">
 
