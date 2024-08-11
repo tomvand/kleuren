@@ -34,6 +34,10 @@ Track
 <img src="swatches/spoor-oud-biels-roest.png" width="10%">
 <img src="swatches/spoor-oud-biels-neutraal.png" width="10%">
 <img src="swatches/spoor-oud-biels-bleek.png" width="10%">
+<img src="swatches/spacer.png" width="10%">
+<img src="swatches/vma-mix-9-71039-1-71033.png" width="10%">
+<img src="swatches/vma-mix-3-71249-1-71142.png" width="10%">
+<img src="swatches/vma-mix-p1-71142.png" width="10%">
 
 <img src="swatches/spoor-oud-rails-roest.png" width="10%">
 
@@ -89,26 +93,26 @@ Color systems
 Humbrol
 -------
 
-<img src="swatches/humbrol-1.png" width="20%">
+<img src="swatches/humbrol-1.png" width="10%">
 
-<img src="swatches/humbrol-67.png" width="20%"> <img src="swatches/humbrol-32.png" width="20%"> <img src="swatches/humbrol-64.png" width="20%">
+<img src="swatches/humbrol-67.png" width="10%"> <img src="swatches/humbrol-32.png" width="10%"> <img src="swatches/humbrol-64.png" width="10%">
 
-<img src="swatches/humbrol-70.png" width="20%">
+<img src="swatches/humbrol-70.png" width="10%">
 
-<img src="swatches/humbrol-46.png" width="20%">
+<img src="swatches/humbrol-46.png" width="10%">
 
 Vallejo Model Air
 -----------------
 
-<img src="swatches/vma-71001.png" width="20%">        <img src="swatches/vma-71052.png" width="20%">    <img src="swatches/vma-71131.png" width="20%"> <img src="swatches/vma-71142.png" width="20%"> 
+<img src="swatches/vma-71001.png" width="10%">        <img src="swatches/vma-71052.png" width="10%">    <img src="swatches/vma-71131.png" width="10%"> <img src="swatches/vma-71142.png" width="10%"> 
 
-<img src="swatches/vma-71036.png" width="20%"> <img src="swatches/vma-71042.png" width="20%">
+<img src="swatches/vma-71036.png" width="10%"> <img src="swatches/vma-71042.png" width="10%">
 
-<img src="swatches/vma-71039.png" width="20%"> <img src="swatches/vma-71249.png" width="20%"> <img src="swatches/vma-71038.png" width="20%">
+<img src="swatches/vma-71039.png" width="10%"> <img src="swatches/vma-71249.png" width="10%"> <img src="swatches/vma-71038.png" width="10%">
 
-<img src="swatches/vma-71033.png" width="20%"> <img src="swatches/vma-71078.png" width="20%"> <img src="swatches/vma-71002.png" width="20%">
+<img src="swatches/vma-71033.png" width="10%"> <img src="swatches/vma-71078.png" width="10%"> <img src="swatches/vma-71002.png" width="10%">
 
-<img src="swatches/vma-71004.png" width="20%"> <img src="swatches/vma-71090.png" width="20%"> <img src="swatches/vma-71089.png" width="20%">
+<img src="swatches/vma-71004.png" width="10%"> <img src="swatches/vma-71090.png" width="10%"> <img src="swatches/vma-71089.png" width="10%">
 
 
 Ballast
