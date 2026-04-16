@@ -200,3 +200,37 @@ Note the difference between the paint spots and color swatches! *Also, lighting 
 
 ![](Color-systems/vallejo-model-air-photomatched.jpg)
 Vallejo color chart from pdf. Adjusted to match photographed colors. The adjustment was quite small, so the original pdf may already have been accurate. Note that the RAL chart in the photograph is also not perfectly matched, especially the colors.
+
+
+
+Color palettes
+==============
+
+Based on https://www.handprint.com/HP/WCL/palette4e.html
+
+I have no idea about the pigments in vallejo paint, so they are picked on the base of their appearance (on screen compared to reference color pictures).
+
+
+Vallejo Model Color
+- Yellow: Lemon Yellow 70.952 (supposed to be PY3)
+- Blue violet: Ultramarine Blue 70.839 (supposed to be PB29)
+- Red Orange: Bright Orange 70.851 (for its intensity on the screen)
+- Green Blue: Light Turquoise 70.840 (most intense of the two options)
+- Violet Red: Magenta 70.945 (supposed to be PV19)
+- Green: Emerald 70.838 (based on screen appearance)
+- White: White 70.951
+- Neutral: Neutral Grey 70.992
+- Black: Black 70.950
+
+
+Vallejo Model Air
+- Yellow: Medium Yellow 71.002 (because I already have it and it is bright and intense-ish)
+- Blue violet: Blue 71.004 (not that much choice, plus I already have it. Not super intense)
+- Red Orange: Orange 71.083 (only option)
+- Green Blue: Light Sea Blue 71.089 + Cockpit Green Faded 71.331 (no real options)
+- Violet Red: (no options)
+- Green: Light Green Chromate 71.006 (no real options)
+- White: White 71.001
+- Neutral: Neutral Gray 71.051
+- Black: Black 71.057
+
