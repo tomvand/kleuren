@@ -1,0 +1,1 @@
+Manually tested a few samples from the sRGB colorspace scan, filamentcolors.xyz was often able to find the matching Bambulab filament.
