@@ -82,6 +82,53 @@ Track
   - Bleek (midden): 71.131
 
 
+Ballast
+-------
+
+Op basis van spoor.jpg. Ballast is uit het midden van het spoor gesampled, waar
+er nog weinig roest op zit. Deze kan dan daarna nog ge-airbrusht worden zonder
+de kleur te verstoren. (Zijkant van de bedding is niet zichtbaar op de foto's
+die ik heb.) Ik heb drie à vier zo verschillend mogelijke kleuren gekozen om
+genoeg contrast te hebben op de modelbaan.
+
+Voor de ballastkleuren heb ik bijpassende Vallejo kleuren gezocht. Hiermee kan
+dan ballast van bijvoorbeeld Minitec op kleur worden gebracht.
+
+Ik heb ook RAL kleuren opgezocht als makkelijk vergelijkingsmiddel voor de geverfde ballast.
+
+
+<img src="swatches/ballast-20240428-a58260.png" width="10%">
+<img src="swatches/ral-1011.png" width="10%">
+<img src="swatches/vma-71117.png" width="10%">
+<img src="swatches/vma-71027.png" width="10%">
+<img src="swatches/vma-71079.png" width="10%">
+<img src="swatches/vma-71291.png" width="10%">
+<img src="swatches/vma-71348.png" width="10%">
+<img src="swatches/ws-buff.png" width="10%">
+
+<img src="swatches/ballast-20240428-736545.png" width="10%">
+<!--<img src="swatches/ballast-20240428-695f44.png" width="10%">-->
+<img src="swatches/ral-7008.png" width="10%">
+<img src="swatches/vma-71031.png" width="10%">
+<img src="swatches/vma-71025.png" width="10%">
+<img src="swatches/vma-71272.png" width="10%">
+<img src="swatches/vma-71024.png" width="10%">
+<img src="swatches/vma-71116.png" width="10%">
+<img src="swatches/ws-dark-brown.png" width="10%">
+
+<img src="swatches/ballast-20240428-5e3323.png" width="10%">
+<img src="swatches/ral-8011.png" width="10%">
+<img src="swatches/vma-71129.png" width="10%">
+<img src="swatches/vma-71293.png" width="10%">
+<img src="swatches/ws-dark-brown.png" width="10%">
+
+<img src="swatches/ballast-20240428-2e2523.png" width="10%">
+<img src="swatches/ral-9017.png" width="10%">
+<img src="swatches/vma-71268.png" width="10%">
+<img src="swatches/vma-71249.png" width="10%">
+<img src="swatches/ws-cinders.png" width="10%">
+
+
 
 Greenery
 ========
